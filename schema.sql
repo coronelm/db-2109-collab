@@ -4,3 +4,5 @@ INSERT INTO teachers (id, name, subject)
 VALUES(1, 'Marielle Coronel','DBMS'),
 (2, 'Raymond Balba', 'Calculus based Physics');
 CREATE TABLE subjects(column_id INT, subject_name VARCHAR(50)); 
+INSERT INTO subjects (colum_id, subject_name)
+VALUES(1, 'DBMS'), (2, 'OOP');
