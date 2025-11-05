@@ -3,3 +3,4 @@ CREATE TABLE teachers(id INT, name VARCHAR(50), subject VARCHAR(50));
 INSERT INTO teachers (id, name, subject)
 VALUES(1, 'Marielle Coronel','DBMS'),
 (2, 'Raymond Balba', 'Calculus based Physics');
+CREATE TABLE subjects(column_id INT, subject_name VARCHAR(50)); 
