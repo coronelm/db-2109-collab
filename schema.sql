@@ -14,3 +14,4 @@ INSER INTO attendance (attendance_id, attendance_Date) VALUES(1, '11/06/2025');
 CREATE TABLE attendance (attendance_id INT, attendance_Date VARCHAR(50));
 >>>>>>> bb031b45e163f2373b6651b24a19505dac928267
 INSER INTO attendance (attendance_id, attendance_Date) VALUES(1, '11/06/2025');
+INSERT INTO attendance (attendance_id, attendance_Date) VALUES(1, '11/06/2025');
