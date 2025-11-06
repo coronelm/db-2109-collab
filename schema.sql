@@ -8,3 +8,4 @@ INSERT INTO subjects (colum_id, subject_name)
 VALUES(1, 'DBMS'), (2, 'OOP');
 CREATE TABLE grades (grade_id INT, student_id INT, subject VARCHAR (50), grade FLOAT);
 CREATE TABLE department (dept_id INT, student_id INT, subject VARCHAR(30));
+INSER INTO attendance (attendance_id, attendance_Date) VALUES(1, '11/06/2025');
